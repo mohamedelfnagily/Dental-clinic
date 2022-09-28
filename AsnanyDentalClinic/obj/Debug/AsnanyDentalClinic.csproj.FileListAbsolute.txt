@@ -1,0 +1,13 @@
+D:\M.Elfnagily\ITI\C#\Visual C#\Project 2\AsnanyDentalClinic\AsnanyDentalClinic\bin\Debug\AsnanyDentalClinic.exe.config
+D:\M.Elfnagily\ITI\C#\Visual C#\Project 2\AsnanyDentalClinic\AsnanyDentalClinic\bin\Debug\AsnanyDentalClinic.exe
+D:\M.Elfnagily\ITI\C#\Visual C#\Project 2\AsnanyDentalClinic\AsnanyDentalClinic\bin\Debug\AsnanyDentalClinic.pdb
+D:\M.Elfnagily\ITI\C#\Visual C#\Project 2\AsnanyDentalClinic\AsnanyDentalClinic\obj\Debug\AsnanyDentalClinic.csproj.AssemblyReference.cache
+D:\M.Elfnagily\ITI\C#\Visual C#\Project 2\AsnanyDentalClinic\AsnanyDentalClinic\obj\Debug\AsnanyDentalClinic.csproj.SuggestedBindingRedirects.cache
+D:\M.Elfnagily\ITI\C#\Visual C#\Project 2\AsnanyDentalClinic\AsnanyDentalClinic\obj\Debug\AsnanyDentalClinic.BufferingPage.resources
+D:\M.Elfnagily\ITI\C#\Visual C#\Project 2\AsnanyDentalClinic\AsnanyDentalClinic\obj\Debug\AsnanyDentalClinic.Properties.Resources.resources
+D:\M.Elfnagily\ITI\C#\Visual C#\Project 2\AsnanyDentalClinic\AsnanyDentalClinic\obj\Debug\AsnanyDentalClinic.csproj.GenerateResource.cache
+D:\M.Elfnagily\ITI\C#\Visual C#\Project 2\AsnanyDentalClinic\AsnanyDentalClinic\obj\Debug\AsnanyDentalClinic.csproj.CoreCompileInputs.cache
+D:\M.Elfnagily\ITI\C#\Visual C#\Project 2\AsnanyDentalClinic\AsnanyDentalClinic\obj\Debug\AsnanyDentalClinic.exe
+D:\M.Elfnagily\ITI\C#\Visual C#\Project 2\AsnanyDentalClinic\AsnanyDentalClinic\obj\Debug\AsnanyDentalClinic.pdb
+D:\M.Elfnagily\ITI\C#\Visual C#\Project 2\AsnanyDentalClinic\AsnanyDentalClinic\obj\Debug\AsnanyDentalClinic.MyForms.SigninPage.resources
+D:\M.Elfnagily\ITI\C#\Visual C#\Project 2\AsnanyDentalClinic\AsnanyDentalClinic\obj\Debug\AsnanyDentalClinic.MyForms.RegisterationForm.resources

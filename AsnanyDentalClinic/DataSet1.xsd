@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet1" msprop:Generator_DataSetName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="patient" msprop:Generator_RowEvHandlerName="patientRowChangeEventHandler" msprop:Generator_RowDeletedName="patientRowDeleted" msprop:Generator_RowDeletingName="patientRowDeleting" msprop:Generator_RowEvArgName="patientRowChangeEvent" msprop:Generator_TablePropName="patient" msprop:Generator_RowChangedName="patientRowChanged" msprop:Generator_RowChangingName="patientRowChanging" msprop:Generator_TableClassName="patientDataTable" msprop:Generator_RowClassName="patientRow" msprop:Generator_TableVarName="tablepatient" msprop:Generator_UserTableName="patient">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="userName" msprop:Generator_ColumnPropNameInRow="userName" msprop:Generator_ColumnPropNameInTable="userNameColumn" msprop:Generator_ColumnVarNameInTable="columnuserName" msprop:Generator_UserColumnName="userName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="password" msprop:Generator_ColumnPropNameInRow="password" msprop:Generator_ColumnPropNameInTable="passwordColumn" msprop:Generator_ColumnVarNameInTable="columnpassword" msprop:Generator_UserColumnName="password">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="patientId" msprop:Generator_ColumnPropNameInRow="patientId" msprop:Generator_ColumnPropNameInTable="patientIdColumn" msprop:Generator_ColumnVarNameInTable="columnpatientId" msprop:Generator_UserColumnName="patientId" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:patient" />
+      <xs:field xpath="mstns:patientId" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
